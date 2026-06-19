@@ -80,6 +80,6 @@ NLP and Machine Learning based sentiment analysis system.
 
 ## Connect With Me
 
-* GitHub: []
-* LinkedIn: [Your LinkedIn Profile]
+* GitHub: [https://github.com/kosanapraneetha]
+* LinkedIn: [https://www.linkedin.com/in/praneetha-kosana-164145374]
 * Email: [kosanapraneetha@gmail.com]
