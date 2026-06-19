@@ -40,10 +40,8 @@ Hi, I'm Praneetha Kosana
 
 ### Tools
 
-* Git
-* GitHub
 * VS Code
-
+*Git [in progress]
 ---
 
 ## Projects
